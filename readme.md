@@ -1,5 +1,5 @@
 # re-mote
-Configure Git to push to multiple remotes.
+A simple bash script to automate updating git remotes.
 
 ## Usage
 ```bash
