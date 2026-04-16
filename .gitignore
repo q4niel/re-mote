@@ -2,6 +2,7 @@
 
 !.gitignore
 !.re-mote
+!readme.md
 
 !run/
 !run/**/*
