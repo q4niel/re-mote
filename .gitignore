@@ -1,3 +1,7 @@
 *
 
 !.gitignore
+!.re-mote
+
+!run/
+!run/**/*
