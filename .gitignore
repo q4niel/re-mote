@@ -2,7 +2,5 @@
 
 !.gitignore
 !.re-mote
+!re-mote.sh
 !readme.md
-
-!run/
-!run/**/*

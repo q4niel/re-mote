@@ -3,7 +3,7 @@ Configure Git to push to multiple remotes.
 
 ## Usage
 ```bash
-curl https://raw.githubusercontent.com/q4niel/re-mote/main/run/linux.sh -o re-mote.sh && sh re-mote.sh && rm -f re-mote.sh
+curl https://raw.githubusercontent.com/q4niel/re-mote/main/re-mote.sh -o re-mote.sh && sh re-mote.sh && rm -f re-mote.sh
 ```
 
 ## Configuration
