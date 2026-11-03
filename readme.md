@@ -1,9 +1,14 @@
 # re-mote
-A simple bash script to automate updating git remotes.
+A simple script to automate updating git remotes.
 
 ## Usage
+- Linux
 ```bash
 curl https://raw.githubusercontent.com/q4niel/re-mote/main/re-mote.sh -o re-mote.sh && sh re-mote.sh && rm -f re-mote.sh
+```
+- Windows (tested once inside *git bash*)
+```bash
+curl https://raw.githubusercontent.com/q4niel/re-mote/main/re-mote.ps1 -o re-mote.ps1 && powershell.exe -ExecutionPolicy Bypass -File ".\re-mote.ps1" && rm -f re-mote.ps1
 ```
 
 ## Configuration
